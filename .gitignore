@@ -1,0 +1,8 @@
+*.hex
+*.map
+*.elf
+*.o
+*.d
+*.a
+tp9/serieViaUSB/
+tp9/progmem/
